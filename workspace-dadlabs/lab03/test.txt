@@ -1,0 +1,23 @@
+
+Station id:	2222002
+Districts:	Alor Gajah
+Station Name:	Durian Tunggal
+Day 1	3.0
+Day 2	-9999.0
+Day 3	-9999.0
+Day 4	94.0
+Day 5	1.0
+Day 6	0.0
+
+Average for selected startion is -3316.7%
+Station id:	2321006
+Districts:	Alor Gajah
+Station Name:	Ladang Lendu
+Day 1	3.0
+Day 2	6.0
+Day 3	-9999.0
+Day 4	-9999.0
+Day 5	145.0
+Day 6	0.0
+
+Average for selected startion is -3307.3%
