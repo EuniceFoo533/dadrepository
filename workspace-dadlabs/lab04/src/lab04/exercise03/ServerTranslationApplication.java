@@ -11,7 +11,7 @@ public class ServerTranslationApplication {
 			int portNo = 4228;
 			serverSocket = new ServerSocket(portNo);
 			
-			String text1 = "Good Afternoon";
+			String text1 = " Good Afternoon";
 			System.out.println("Waiting for request");
 			
 			while(true) {
