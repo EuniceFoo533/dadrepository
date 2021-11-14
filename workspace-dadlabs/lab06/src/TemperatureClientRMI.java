@@ -1,14 +1,11 @@
 import java.rmi.NotBoundException;
-import java.util.ArrayList;
 import java.rmi.RemoteException;
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
-import java.util.Collection;
 import java.util.HashMap;
-import java.util.List;
 
 import ftmk.rmi.sensor.TemperatureSensor;
-import java.util.Collection;
+
 public class TemperatureClientRMI {
 	
 	public static void main (String[] args) 
