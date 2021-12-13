@@ -3,10 +3,12 @@
 This directory contains source codes for Lab 05
 
 ## Output from Exercise 2
+![image](https://github.com/EuniceFoo533/dadrepository/blob/main/workspace-dadlabs/lab06/images/Exercise%202%20(1).png)
 ![image](https://github.com/EuniceFoo533/dadrepository/blob/main/workspace-dadlabs/lab06/images/Output%20TemperatureServer.png)
 
 
 ## Output from Exercise 3
+![images](https://github.com/EuniceFoo533/dadrepository/blob/main/workspace-dadlabs/lab06/images/Exercise%203(1).png)
 ![image](https://github.com/EuniceFoo533/dadrepository/blob/main/workspace-dadlabs/lab06/images/Output%20TemperatureClient.png)
 
 
