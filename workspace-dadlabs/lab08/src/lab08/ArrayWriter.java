@@ -10,6 +10,7 @@ public class ArrayWriter extends Thread implements Runnable
 	
 	
 	
+	
 	public ArrayWriter(int value, SimpleArray simpleArray) 
 	{
 		this.startValue = value;
@@ -20,11 +21,14 @@ public class ArrayWriter extends Thread implements Runnable
 	// method name must same with the Interface
 	public void run() {
 		// TODO Auto-generated method stub
-		int i ; 
-		int sum = 0;
+		for(int i = 0 ; i < 3; i++) 
+		{
+			sharedSimpleArray.add(startValue);
+			startValue++;
+			sharedSimpleArray.toString();
+		}
 		
-		sum = startValue;
-
+		
 	}
 
 }
