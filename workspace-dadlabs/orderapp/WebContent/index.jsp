@@ -11,12 +11,13 @@
 <h2>Sem 2 2020/2021</h2>
 
 <hr>
-<a href="dateServlet?param=-1">Display Yesterday's Date</a>&nbsp;&nbsp;
-<a href="dateServlet?param=0">Display Today's Date</a>&nbsp;&nbsp;
-<a href="dateServlet?param=1">Display Tomorrow's Date</a>
+	<a href="dateServlet?param=-1">Display Yesterday's Date</a>&nbsp;&nbsp;
+	<a href="dateServlet?param=0">Display Today's Date</a>&nbsp;&nbsp;
+	<a href="dateServlet?param=1">Display Tomorrow's Date</a>
 </body>
 
 </html>
 
 <br><br>
 <a href="demo/orderForm.html">Order Product</a>
+
