@@ -53,7 +53,7 @@
 </table>
 
 <br>
-<b>Number of Record: </b><%=houseFacade.getHouses().size() %>
+<b>The number of houses in Hogwarts is </b><%=houseFacade.getHouses().size() %>
 </body>
 <!--Include a footer menu-->
 <jsp:include page="footerMenu.html" />
