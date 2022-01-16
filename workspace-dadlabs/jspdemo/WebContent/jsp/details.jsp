@@ -23,6 +23,8 @@
    		
    		String houseName = "";
    		String houseFounder = "";
+   		String houseColor = "";
+   		String houseMascot ="";
    		
    		// Get house. Use HouseFacade
    	
@@ -32,6 +34,8 @@
    			{
    				houseName = house.getName();
    				houseFounder = house.getFounder();
+   				houseColor = house.getColor();
+   				houseMascot = house.getMascot();
    			}
    			
    		}
@@ -51,6 +55,8 @@
 	
 	<b>Name   : </b><%=houseName %><br><br>
 	<b>Founder: </b><%=houseFounder %><br><br>
+	<b>Color  :</b><%=houseColor %><br><br>
+	<b>Mascot :</b><%=houseMascot %><br><br>
 
 </body>
 
