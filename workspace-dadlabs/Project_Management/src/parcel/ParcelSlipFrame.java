@@ -48,6 +48,9 @@ public class ParcelSlipFrame extends JFrame {
 		contentPane.setLayout(new BorderLayout(0, 0));
 		setContentPane(contentPane);
 		
+		JTextArea textArea_1 = new JTextArea();
+		contentPane.add(textArea_1, BorderLayout.CENTER);
+		
 		try
 		{
 			String parcelDetails = "SELECT * FROM parcel_details WHERE pd_id=(SELECT max(pd_id) FROM parcel_details);";
